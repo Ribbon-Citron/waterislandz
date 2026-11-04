@@ -1,5 +1,5 @@
 {
-  "name": "testpage",
+  "name": "waterislandz",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -12,6 +12,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.2.4"
+    "astro": "^7.4.5"
   }
 }
